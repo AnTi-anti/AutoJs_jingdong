@@ -59,5 +59,6 @@ https://p.m.jd.com/norder/order.action?wareId=100006300794&wareNum=1&enterOrder=
 
 这个链接中的100006300794，就是我们要替换的商品ID！
 
-
+#### 我为自己代言
+* 在线接活，脚本、小程序、软件开发都可以。
 
