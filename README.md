@@ -64,9 +64,7 @@ https://p.m.jd.com/norder/order.action?wareId=100006300794&wareNum=1&enterOrder=
 
 
 
-```python
-
-/***                                                                          
+```python                                                                        
  *          .,:,,,                                        .::,,,::.          
  *        .::::,,;;,                                  .,;;:,,....:i:         
  *        :i,.::::,;i:.      ....,,:::::::::,....   .;i:,.  ......;i.        
@@ -102,8 +100,7 @@ https://p.m.jd.com/norder/order.action?wareId=100006300794&wareNum=1&enterOrder=
  *              .,issr;,... ...........................,is1s;.               
  *                 .,is1si;:,....................,:;ir1sr;,                  
  *                    ..:isssssrrii;::::::;;iirsssssr;:..                    
- *                         .,::iiirsssssssssrri;;:.                      
- */				
+ *                         .,::iiirsssssssssrri;;:.                      			
 ```
 
 
