@@ -277,11 +277,11 @@ ui.model_five.on("check", (checked)=>{
  //获取京东时间
 var thread = threads.start(function(){  //页面网络延时提示  
     timestamp1 = new Date().getTime();
-    r = http.get("https://a.jd.com//ajax/queryServerData.html");
+    r = http.get("https://api.m.jd.com/client.action?functionId=queryMaterialProducts&client=wh5z");
     timestamp2 = new Date().getTime()
     JDnetwork_delay = timestamp2-timestamp1  //网络延时
     var objj = r.body.json();
-    JDtime_difference = timestamp1-objj.serverTime//网络时间差 
+    JDtime_difference = timestamp1-objj.currentTime2//网络时间差 
     if (JDtime_difference < 0) {
         var JDoffset_str = "慢了" + -JDtime_difference + 'ms，'
     } else {
